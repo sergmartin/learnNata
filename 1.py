@@ -10,3 +10,4 @@ else:
     print("привет " + n)
 #else:
     #print("привет " + n)
+    dfgijbjdgfij
