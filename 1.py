@@ -8,6 +8,3 @@ elif n == "Сергей":
      print(f"Привет {n} говней!")
 else:
     print("привет " + n)
-#else:
-    #print("привет " + n)
-    dfgijbjdgfij
